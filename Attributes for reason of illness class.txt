@@ -1,9 +1,0 @@
-1) Symptom name;
-2) Symptom ID;
-3) Symptom frequency;
-4) Symptom reason;
-5) Communicable?(Y/N);
-6) Duration of symptom;
-7) chemical formules used in the treatment of the symptom;
-8) variate of intensivity of symptoms;
-9) In which race the symptoms are most common (DSFBDSHGBDFHS);
