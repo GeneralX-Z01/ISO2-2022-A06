@@ -5,17 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>application</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>iteration2</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>iteration1</module>
-        <module>iteration2</module>
-    </modules>
 
-    <properties>
-        <maven.compiler.source>15</maven.compiler.source>
-        <maven.compiler.target>15</maven.compiler.target>
-    </properties>
 
 </project>
