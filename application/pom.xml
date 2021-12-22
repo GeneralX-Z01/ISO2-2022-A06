@@ -13,6 +13,7 @@
         <module>iteration2</module>
         <module>iteration3</module>
         <module>iteration4</module>
+        <module>iteration5</module>
     </modules>
 
     <properties>
